@@ -1,0 +1,16 @@
+{
+	"firstName": "Akmal",
+	"lastName": "Hossain",
+	"address": [
+		{
+			"street": "651 omnia",
+			"city": "Lawrenceville",
+			"state": "GA"
+		},
+		{
+			"street": "555 manshell",
+			"city": "Roswell",
+			"state": "GA"
+		}
+	]
+}

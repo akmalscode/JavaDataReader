@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<employees>
+
+	<employee>
+		<id>101</id>
+		<firstName>John</firstName>
+		<lastName>Candey</lastName>
+		<job>engineer</job>
+		<salary>80000</salary>
+
+	</employee>
+
+	<employee>
+		<id>102</id>
+		<firstName>Akmal</firstName>
+		<lastName>Hossain</lastName>
+		<job>Automation QA</job>
+		<salary>120000</salary>
+	</employee>
+
+	<employee>
+		<id>103</id>
+		<firstName>Ariyan</firstName>
+		<lastName>Hossain</lastName>
+		<job>Scientist</job>
+		<salary>200000</salary>
+	</employee>
+
+</employees>
